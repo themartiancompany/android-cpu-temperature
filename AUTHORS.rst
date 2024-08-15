@@ -1,5 +1,5 @@
 ===============
-Android CPU Authors
+Android CPU temperature Authors
 ===============
 
 * Pellegrino Prevete <pellegrinoprevete@gmail.com>
